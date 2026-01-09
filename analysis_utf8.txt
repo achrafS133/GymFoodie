@@ -1,0 +1,236 @@
+﻿Analyzing restaurant_morocco...                                 
+
+   info - Missing documentation for a public member - lib\data\sample_dishes.dart:3:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\data\sample_dishes.dart:4:21 - public_member_api_docs
+   info - Missing documentation for a public member - lib\data\sample_dishes.dart:268:21 - public_member_api_docs
+   info - Missing documentation for a public member - lib\data\sample_dishes.dart:272:21 - public_member_api_docs
+   info - Missing documentation for a public member - lib\data\sample_dishes.dart:276:21 - public_member_api_docs
+   info - Missing documentation for a public member - lib\main.dart:35:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\main.dart:36:9 - public_member_api_docs
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\main.dart:92:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\main.dart:141:42 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\main.dart:148:20 - prefer_const_constructors
+   info - Missing documentation for a public member - lib\models\dish.dart:6:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:8:10 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:11:10 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:14:10 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:17:10 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:20:10 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:23:16 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:26:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:29:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:32:16 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:35:8 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:38:8 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:41:16 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:44:24 - public_member_api_docs
+   info - Constructor declarations should be before non-constructor declarations - lib\models\dish.dart:46:3 - sort_constructors_first
+   info - Missing documentation for a public member - lib\models\dish.dart:46:3 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:63:14 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:65:11 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:67:14 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:69:12 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:72:8 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:111:6 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:113:3 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:116:3 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:119:3 - public_member_api_docs
+   info - The constant name 'healthy_fats' isn't a lowerCamelCase identifier - lib\models\dish.dart:119:3 - constant_identifier_names
+   info - Missing documentation for a public member - lib\models\dish.dart:122:3 - public_member_api_docs
+   info - Missing documentation for a public member - lib\models\dish.dart:125:16 - public_member_api_docs
+warning - Unused import: '../models/dish.dart' - lib\providers\comments_provider.dart:3:8 - unused_import
+   info - Missing documentation for a public member - lib\providers\comments_provider.dart:5:7 - public_member_api_docs
+   info - The private field _dishComments could be 'final' - lib\providers\comments_provider.dart:11:29 - prefer_final_fields
+   info - The private field _dishLikes could be 'final' - lib\providers\comments_provider.dart:12:20 - prefer_final_fields
+   info - The private field _dishDislikes could be 'final' - lib\providers\comments_provider.dart:13:20 - prefer_final_fields
+   info - The private field _userReactions could be 'final' - lib\providers\comments_provider.dart:14:23 - prefer_final_fields
+   info - Constructor declarations should be before non-constructor declarations - lib\providers\comments_provider.dart:16:3 - sort_constructors_first
+   info - Missing documentation for a public member - lib\providers\comments_provider.dart:16:3 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\comments_provider.dart:56:16 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\comments_provider.dart:60:16 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\comments_provider.dart:71:16 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\comments_provider.dart:82:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\comments_provider.dart:86:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\comments_provider.dart:90:11 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\comments_provider.dart:94:16 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\comments_provider.dart:119:16 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\comments_provider.dart:145:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\comments_provider.dart:149:10 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\comments_provider.dart:154:8 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\comments_provider.dart:159:16 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\favorites_provider.dart:5:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\favorites_provider.dart:9:19 - public_member_api_docs
+   info - Constructor declarations should be before non-constructor declarations - lib\providers\favorites_provider.dart:11:3 - sort_constructors_first
+   info - Missing documentation for a public member - lib\providers\favorites_provider.dart:11:3 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\favorites_provider.dart:21:8 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\favorites_provider.dart:25:16 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\favorites_provider.dart:53:16 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\favorites_provider.dart:59:16 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\favorites_provider.dart:63:11 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\theme_provider.dart:4:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\theme_provider.dart:9:17 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\theme_provider.dart:10:12 - public_member_api_docs
+   info - Constructor declarations should be before non-constructor declarations - lib\providers\theme_provider.dart:12:3 - sort_constructors_first
+   info - Missing documentation for a public member - lib\providers\theme_provider.dart:12:3 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\theme_provider.dart:36:16 - public_member_api_docs
+   info - Missing documentation for a public member - lib\providers\theme_provider.dart:42:16 - public_member_api_docs
+   info - Missing documentation for a public member - lib\screens\calculator_screen.dart:5:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\screens\calculator_screen.dart:6:9 - public_member_api_docs
+   info - Local variables should be final - lib\screens\calculator_screen.dart:53:9 - prefer_final_locals
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\calculator_screen.dart:226:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\calculator_screen.dart:228:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\calculator_screen.dart:296:22 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\calculator_screen.dart:298:41 - deprecated_member_use
+   info - Missing documentation for a public member - lib\screens\contact_screen.dart:7:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\screens\contact_screen.dart:8:9 - public_member_api_docs
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\contact_screen.dart:149:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\contact_screen.dart:238:30 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\contact_screen.dart:294:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\contact_screen.dart:322:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\contact_screen.dart:325:39 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\screens\contact_screen.dart:329:20 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\screens\contact_screen.dart:330:25 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\screens\contact_screen.dart:331:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\contact_screen.dart:337:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\contact_screen.dart:338:26 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\contact_screen.dart:340:28 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\contact_screen.dart:409:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\contact_screen.dart:511:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\contact_screen.dart:631:32 - deprecated_member_use
+   info - Missing documentation for a public member - lib\screens\favorites_screen.dart:11:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\screens\favorites_screen.dart:12:9 - public_member_api_docs
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary - lib\screens\favorites_screen.dart:124:55 - invalid_null_aware_operator
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\favorites_screen.dart:139:54 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\screens\favorites_screen.dart:157:23 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\favorites_screen.dart:175:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\favorites_screen.dart:199:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\favorites_screen.dart:324:29 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\favorites_screen.dart:327:31 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\favorites_screen.dart:356:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\favorites_screen.dart:549:34 - deprecated_member_use
+   info - Missing documentation for a public member - lib\screens\home_screen.dart:9:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\screens\home_screen.dart:10:9 - public_member_api_docs
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:162:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:196:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:237:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:244:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:268:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:294:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:357:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:462:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:536:26 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:563:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_screen.dart:611:44 - deprecated_member_use
+   info - Missing documentation for a public member - lib\screens\main_screen.dart:13:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\screens\main_screen.dart:14:9 - public_member_api_docs
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\main_screen.dart:130:37 - deprecated_member_use
+   info - Missing documentation for a public member - lib\screens\menu_screen.dart:12:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\screens\menu_screen.dart:13:9 - public_member_api_docs
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\menu_screen.dart:164:78 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\menu_screen.dart:169:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\menu_screen.dart:189:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\menu_screen.dart:230:39 - deprecated_member_use
+   info - Missing documentation for a public member - lib\screens\menu_screen.dart:386:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\screens\menu_screen.dart:387:14 - public_member_api_docs
+   info - Constructor declarations should be before non-constructor declarations - lib\screens\menu_screen.dart:389:9 - sort_constructors_first
+   info - Missing documentation for a public member - lib\screens\menu_screen.dart:389:9 - public_member_api_docs
+   info - Required named parameters should be before optional named parameters - lib\screens\menu_screen.dart:391:19 - always_put_required_named_parameters_first
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\menu_screen.dart:465:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\menu_screen.dart:484:57 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\screens\menu_screen.dart:738:37 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\menu_screen.dart:741:46 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\menu_screen.dart:755:43 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\menu_screen.dart:805:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\menu_screen.dart:844:35 - deprecated_member_use
+   info - Missing documentation for a public member - lib\screens\splash_screen.dart:8:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\screens\splash_screen.dart:9:9 - public_member_api_docs
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:125:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:162:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:174:53 - deprecated_member_use
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:3:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:5:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:6:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:7:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:10:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:11:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:14:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:15:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:16:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:19:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:20:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:21:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:22:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:25:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:26:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:27:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:28:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:31:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:32:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:33:22 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:36:31 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:42:31 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:48:31 - public_member_api_docs
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:55:24 - public_member_api_docs
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\utils\app_colors.dart:56:20 - deprecated_member_use
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:61:24 - public_member_api_docs
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\utils\app_colors.dart:62:25 - deprecated_member_use
+   info - Missing documentation for a public member - lib\utils\app_colors.dart:67:24 - public_member_api_docs
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\utils\app_colors.dart:68:25 - deprecated_member_use
+   info - Missing documentation for a public member - lib\widgets\animated_counter.dart:3:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\widgets\animated_counter.dart:4:13 - public_member_api_docs
+   info - Missing documentation for a public member - lib\widgets\animated_counter.dart:5:20 - public_member_api_docs
+   info - Missing documentation for a public member - lib\widgets\animated_counter.dart:6:18 - public_member_api_docs
+   info - Missing documentation for a public member - lib\widgets\animated_counter.dart:7:14 - public_member_api_docs
+   info - Missing documentation for a public member - lib\widgets\animated_counter.dart:8:16 - public_member_api_docs
+   info - Constructor declarations should be before non-constructor declarations - lib\widgets\animated_counter.dart:10:9 - sort_constructors_first
+   info - Missing documentation for a public member - lib\widgets\animated_counter.dart:10:9 - public_member_api_docs
+   info - Required named parameters should be before optional named parameters - lib\widgets\animated_counter.dart:12:19 - always_put_required_named_parameters_first
+   info - Missing documentation for a public member - lib\widgets\custom_drawer.dart:9:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\widgets\custom_drawer.dart:10:9 - public_member_api_docs
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\custom_drawer.dart:26:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\custom_drawer.dart:76:55 - deprecated_member_use
+   info - Missing documentation for a public member - lib\widgets\dish_card.dart:10:7 - public_member_api_docs
+   info - Missing documentation for a public member - lib\widgets\dish_card.dart:11:14 - public_member_api_docs
+   info - Missing documentation for a public member - lib\widgets\dish_card.dart:12:23 - public_member_api_docs
+   info - Constructor declarations should be before non-constructor declarations - lib\widgets\dish_card.dart:14:9 - sort_constructors_first
+   info - Missing documentation for a public member - lib\widgets\dish_card.dart:14:9 - public_member_api_docs
+   info - Required named parameters should be before optional named parameters - lib\widgets\dish_card.dart:16:19 - always_put_required_named_parameters_first
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\dish_card.dart:30:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\dish_card.dart:139:65 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\widgets\dish_card.dart:205:38 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\widgets\dish_card.dart:207:43 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\widgets\dish_card.dart:262:24 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\widgets\dish_card.dart:263:26 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\dish_card.dart:300:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\dish_card.dart:304:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\dish_card.dart:337:37 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\widgets\dish_card.dart:350:26 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\widgets\dish_card.dart:352:28 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\dish_card.dart:374:22 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\dish_card.dart:403:22 - deprecated_member_use
+   info - The imported package 'menu_interactif_restaurant' isn't a dependency of the importing package - test\widget_test.dart:11:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:menu_interactif_restaurant/main.dart' - test\widget_test.dart:11:8 - uri_does_not_exist
+  error - The name 'MyApp' isn't a class - test\widget_test.dart:16:35 - creation_with_non_type
+
+C:\Users\MSI\flutter\bin
+\flutter.bat : 211 
+issues found. (ran in 
+17.6s)
+At line:1 char:1
++ C:\Users\MSI\flutter\b
+in\flutter.bat analyze 
+--no-pub > 
+analysis_full ...
++ ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo      
+        : NotSpecified  
+  : (211 issues found   
+ . (ran in 17.6s):St    
+ring) [], RemoteExc    
+eption
+    + FullyQualifiedErr 
+   orId : NativeComman  
+  dError
+ 
